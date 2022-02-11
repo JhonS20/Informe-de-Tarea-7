@@ -25,6 +25,11 @@ CAPITULO 14
 RESOLUCION DE EERCICIOS 
 
 CAPITULO 13
+
+![Deber 12+1_Página_1](https://user-images.githubusercontent.com/93209004/153526382-f4d46329-e018-4ae0-8943-89b91bf5ecc0.jpg)
+![Deber 12+1_Página_2](https://user-images.githubusercontent.com/93209004/153526384-482d42bf-a467-4b43-9486-6b6d7c623d3b.jpg)
+![Deber 12+1_Página_3](https://user-images.githubusercontent.com/93209004/153526386-5ed864ff-424d-4488-ada3-12d942dde864.jpg)
+![Deber 12+1_Página_4](https://user-images.githubusercontent.com/93209004/153526388-8a49a2f1-269b-45c9-abb9-fb20cd1a2136.jpg)
 ![image](https://user-images.githubusercontent.com/93899658/153582403-130006b7-901e-41c5-9303-14c4f793eae0.png)
 ![image](https://user-images.githubusercontent.com/93899658/153582437-48262845-fee9-4867-a027-37f7304d4c24.png)
 ![image](https://user-images.githubusercontent.com/93899658/153582478-c2534b51-5023-4fb0-8e4f-9a25b07fb10f.png)
@@ -34,11 +39,6 @@ CAPITULO 13
 ![image](https://user-images.githubusercontent.com/93899658/153582635-58015c69-127c-4847-8684-04e4c4faff2d.png)
 ![image](https://user-images.githubusercontent.com/93899658/153582657-5204102a-4aee-4de6-9a1d-9e036a8fa077.png)
 ![image](https://user-images.githubusercontent.com/93899658/153582683-766c47fe-778f-4ac0-9619-0d05901dde10.png)
-![Deber 12+1_Página_1](https://user-images.githubusercontent.com/93209004/153526382-f4d46329-e018-4ae0-8943-89b91bf5ecc0.jpg)
-![Deber 12+1_Página_2](https://user-images.githubusercontent.com/93209004/153526384-482d42bf-a467-4b43-9486-6b6d7c623d3b.jpg)
-![Deber 12+1_Página_3](https://user-images.githubusercontent.com/93209004/153526386-5ed864ff-424d-4488-ada3-12d942dde864.jpg)
-![Deber 12+1_Página_4](https://user-images.githubusercontent.com/93209004/153526388-8a49a2f1-269b-45c9-abb9-fb20cd1a2136.jpg)
-
 
 CAPITULO 14
 
