@@ -2,10 +2,12 @@
 
 OBJETIVO GENERAL 
 
+•	Estudiar y comprender que es un transformador, sus diferentes tipos, usos y sus aplicaciones prácticas.
+
 
 OBJETIVO ESPECIFICO
 
-
+•	Analizar matemática y físicamente el efecto que producen estos tipos de transformadores en un circuito eléctrico. 
 
 MARCO TEORICO
 
@@ -39,7 +41,7 @@ VIDEO
 
 CONCLUSIONES 
 
-
+•	Los transformadores son los impulsores de la gran red eléctrica de la actualidad y funcionan únicamente con corriente alterna, ya que son dispositivos que funcionan con principios realizados por una generación de corriente cambiante. 
 
 BOBLIOGRAFIAS 
 
