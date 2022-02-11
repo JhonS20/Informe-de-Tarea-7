@@ -41,6 +41,14 @@ CAPITULO 13
 ![image](https://user-images.githubusercontent.com/93899658/153582683-766c47fe-778f-4ac0-9619-0d05901dde10.png)
 
 CAPITULO 14
+![image](https://user-images.githubusercontent.com/93899658/153597552-a6c94f7c-05d0-4f53-b298-cbe224666264.png)
+![image](https://user-images.githubusercontent.com/93899658/153597597-f65a7e3c-7ce2-44eb-b850-62b9033be957.png)
+![image](https://user-images.githubusercontent.com/93899658/153597635-aa7e4f1d-5eb4-4474-96e6-5faebd88e038.png)
+![image](https://user-images.githubusercontent.com/93899658/153597669-544a0e33-c9c3-40c1-98a8-6cf2cf5c2559.png)
+![image](https://user-images.githubusercontent.com/93899658/153597735-9c02a1c1-239b-439c-8d04-20314927371e.png)
+![image](https://user-images.githubusercontent.com/93899658/153597773-4855c9e3-63e4-4bec-bc50-226cb15bf690.png)
+![image](https://user-images.githubusercontent.com/93899658/153597800-b430e6df-25c0-45f3-8692-c32f0e2ba61c.png)
+![image](https://user-images.githubusercontent.com/93899658/153597829-9506d101-5dda-4a4a-976e-f76f5bedb55e.png)
 
 ![Deber 14_Página_1](https://user-images.githubusercontent.com/93209004/153526299-7860e811-60a9-4958-baec-befcb7ca8a0b.jpg)
 ![Deber 14_Página_2](https://user-images.githubusercontent.com/93209004/153526303-f7ed0de1-4baf-4c2e-83e3-3a076427a072.jpg)
