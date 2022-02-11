@@ -3,10 +3,12 @@
 OBJETIVO GENERAL 
 
 •	Estudiar y comprender que es un transformador, sus diferentes tipos, usos y sus aplicaciones prácticas.
+
 •	Profundizar los conocimientos teorías acerca de inductores y sus aplicaciones.
 
 OBJETIVO ESPECIFICO
 • Comprender las aplicaciones y sus respectivas expresiones algebraicas utilizados para determinar valores en un circuito.
+
 •	Analizar matemática y físicamente el efecto que producen estos tipos de transformadores en un circuito eléctrico.
 
 MARCO TEORICO
@@ -61,6 +63,8 @@ VIDEO
 https://www.youtube.com/watch?v=5Do3MBJlNdY
 
 CONCLUSIONES 
+
+• Los inductores para su análisis matemática sus fórmulas son similares a las estudiadas anteriormente en capacitores esto debido a que sus características están descritas como funciones exponenciales de Euler.
 
 •	Los transformadores son los impulsores de la gran red eléctrica de la actualidad y funcionan únicamente con corriente alterna, ya que son dispositivos que funcionan con principios realizados por una generación de corriente cambiante. 
 
