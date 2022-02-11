@@ -14,6 +14,15 @@ MARCO TEORICO
 CAPITULO 13
 
 ![Diagrama en blanco (9)](https://user-images.githubusercontent.com/93899658/153577330-4e71a275-4cd7-4c72-9477-005b85edb131.png)
+![image](https://user-images.githubusercontent.com/93899658/153582403-130006b7-901e-41c5-9303-14c4f793eae0.png)
+![image](https://user-images.githubusercontent.com/93899658/153582437-48262845-fee9-4867-a027-37f7304d4c24.png)
+![image](https://user-images.githubusercontent.com/93899658/153582478-c2534b51-5023-4fb0-8e4f-9a25b07fb10f.png)
+![image](https://user-images.githubusercontent.com/93899658/153582524-5f33086b-d565-4781-9844-a1d023dfac2b.png)
+![image](https://user-images.githubusercontent.com/93899658/153582561-0bd4a6df-f8e4-4c4c-bfe0-d9e31f0df581.png)
+![image](https://user-images.githubusercontent.com/93899658/153582597-2c27f376-b6b0-4ce3-aed0-ca2d4f8793d5.png)
+![image](https://user-images.githubusercontent.com/93899658/153582635-58015c69-127c-4847-8684-04e4c4faff2d.png)
+![image](https://user-images.githubusercontent.com/93899658/153582657-5204102a-4aee-4de6-9a1d-9e036a8fa077.png)
+![image](https://user-images.githubusercontent.com/93899658/153582683-766c47fe-778f-4ac0-9619-0d05901dde10.png)
 
 
 CAPITULO 14
