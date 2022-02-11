@@ -13,6 +13,9 @@ MARCO TEORICO
 
 CAPITULO 13
 
+![Diagrama en blanco (9)](https://user-images.githubusercontent.com/93899658/153577330-4e71a275-4cd7-4c72-9477-005b85edb131.png)
+
+
 CAPITULO 14
 
 ![Transformadores](https://user-images.githubusercontent.com/93209004/153526424-395aff51-5993-40c0-95bb-9bb20ad22508.png)
